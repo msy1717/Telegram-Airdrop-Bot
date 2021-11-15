@@ -76,6 +76,3 @@ All kinds of contributions are welcome 🙌! The most basic way to show your sup
 
 ***
 
-<p align="center">
-    <a href="https://www.buymeacoffee.com/fabston"><img alt="Buy Me A Coffee" title="☕️" src="https://github.com/fabston/Telegram-Airdrop-Bot/blob/main/assets/bmac.png?raw=true" width=200px></a>
-</p>

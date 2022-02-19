@@ -11,6 +11,7 @@ from time import gmtime, strftime
 
 import pymysql
 import telebot
+from telebot import types
 from aiohttp import web
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup
 
